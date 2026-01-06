@@ -1,3 +1,5 @@
 # Bookshare.me Issue Repository
 
-Blank repository to collate bugs, issues, or suggestions for [Bookshare.me](https://www.bookshare.me).
+Want to share a bug you've found or a suggestion for [Bookshare](https://www.bookshare.me)?
+
+[Create Issue](https://github.com/lukejones/bookshare-issues/issues/new)
